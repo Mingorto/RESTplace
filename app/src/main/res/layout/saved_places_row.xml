@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/savedPlaceImage"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/savedPlaceName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/savedPlaceImage"
+        android:layout_toEndOf="@+id/savedPlaceImage"
+        android:layout_toRightOf="@+id/savedPlaceImage"
+        android:layout_marginLeft="5dp"
+        android:text="@string/coffee" />
+
+    <RatingBar
+        android:id="@+id/savedPlaceRatingBar"
+        style="?android:ratingBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/savedPlaceName"
+        android:layout_alignStart="@+id/savedPlaceName"
+        android:layout_below="@+id/savedPlaceName"
+        android:layout_marginTop="5dp"
+        android:isIndicator="true"
+        android:numStars="5"
+        android:rating="4.5"
+        android:stepSize="0.5"
+        android:theme="@style/MyRatingBar" />
+</RelativeLayout>

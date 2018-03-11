@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RESTplace</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="id_label">The ID is</string>
+    <string name="id_value">[id]</string>
+    <string name="content_label">The Content is</string>
+    <string name="content_value">[content]</string>
+    <string name="action_refresh">Обновить</string>
+    <string name="test_info">At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non-provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio, cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet, ut et voluptates repudiandae sint et molestiae non-recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat</string>
+    <string name="description_1">Описание</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="saved_places">Saved places</string>
+    <string name="feedback">Your feedback</string>
+    <string name="feed">Feed</string>
+
+    <string name="listen">Listen</string>
+    <string name="watch">Watch</string>
+    <string name="move">Move</string>
+    <string name="play">Play</string>
+    <string name="drink">Drink</string>
+    <string name="eat">Eat</string>
+    <string name="coffee">Coffee</string>
+    <string name="addedToFavorite">Added to favorites</string>
+    <string name="undo_string">Cancel</string>
+    <string name="my_cart">My Cart</string>
+    <string name="delete">DELETE</string>
+    <string name="savingError">Already in favorites</string>
+    <string name="deletedFromFavorite">Deleted from favorites</string>
+    <string name="showAll">All</string>
+    <string name="savedCondition">The list is empty so far</string>
+    <string name="refresh">Update information</string>
+</resources>

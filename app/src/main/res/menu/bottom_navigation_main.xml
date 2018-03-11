@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/listen"
+        android:enabled="true"
+        android:icon="@drawable/googleg_disabled_color_18"
+        android:title="@string/listen"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/watch"
+        android:enabled="true"
+        android:icon="@drawable/common_full_open_on_phone"
+        android:title="@string/watch"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action"
+        android:enabled="true"
+        android:icon="@drawable/common_google_signin_btn_icon_dark"
+        android:title="@string/move"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/play"
+        android:enabled="true"
+        android:icon="@drawable/common_google_signin_btn_icon_dark"
+        android:title="@string/play"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/drink"
+        android:enabled="true"
+        android:icon="@drawable/common_google_signin_btn_icon_dark"
+        android:title="@string/drink"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/eat"
+        android:enabled="true"
+        android:icon="@drawable/common_google_signin_btn_icon_dark"
+        android:title="@string/eat"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/coffee"
+        android:enabled="true"
+        android:icon="@drawable/common_google_signin_btn_icon_dark"
+        android:title="@string/coffee"
+        app:showAsAction="ifRoom"/>
+</menu>

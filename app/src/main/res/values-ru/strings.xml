@@ -1,0 +1,37 @@
+<resources>
+<string name="app_name">RESTplace</string>
+<string name="title_activity_maps">Map</string>
+<string name="id_label">The ID is</string>
+<string name="id_value">[id]</string>
+<string name="content_label">The Content is</string>
+<string name="content_value">[content]</string>
+<string name="action_refresh">Refresh</string>
+<string name="test_info">At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non-provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio, cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet, ut et voluptates repudiandae sint et molestiae non-recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat</string>
+<string name="description_1">Description</string>
+<string name="title_activity_main2">Main2Activity</string>
+
+<string name="navigation_drawer_open">Open navigation drawer</string>
+<string name="navigation_drawer_close">Close navigation drawer</string>
+
+<string name="action_settings">Настройки</string>
+<string name="saved_places">Избранное</string>
+<string name="feedback">Ваши отзывы</string>
+<string name="feed">Лента</string>
+
+<string name="listen">Слушай!</string>
+<string name="watch">Смотри!</string>
+<string name="move">Двигайся!</string>
+<string name="play">Играй!</string>
+<string name="drink">Пей!</string>
+    <string name="coffee">Пей кофе</string>
+<string name="eat">Ешь!</string>
+<string name="addedToFavorite">Добавлено в избранное</string>
+<string name="undo_string">Отмена</string>
+<string name="my_cart">My Cart</string>
+<string name="delete">УДАЛИТЬ</string>
+<string name="savingError">Уже в избранном</string>
+<string name="deletedFromFavorite">Удалено из избранного</string>
+<string name="showAll">Всё</string>
+<string name="savedCondition">Список пока пуст</string>
+<string name="refresh">Обновляем информацию</string>
+</resources>
